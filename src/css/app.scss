@@ -1,0 +1,26 @@
+// app global css in SCSS form
+
+// BORDERS
+.rounded-borders {
+  &-26 {
+    border-radius: $border-radius-26 !important;
+  }
+  &-20 {
+    border-radius: $border-radius-20 !important;
+  }
+  &-12 {
+    border-radius: $border-radius-12 !important;
+  }
+  &-10 {
+    border-radius: $border-radius-10 !important;
+  }
+  &-8 {
+    border-radius: $border-radius-8 !important;
+  }
+  &-6 {
+    border-radius: $border-radius-6 !important;
+  }
+  &-4 {
+    border-radius: $border-radius-4 !important;
+  }
+}
